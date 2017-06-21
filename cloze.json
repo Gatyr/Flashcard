@@ -1,0 +1,22 @@
+[
+	{
+		"complete": "Mercy is the support character whose ultimate revives downed teammates",
+		"partial": "Mercy"
+	},
+	{
+		"complete": "Genji is the DPS character whose swift-strike ability resets everytime he gets and elimination",
+		"partial": "Genji"
+	},
+	{
+		"complete": "Roadhog is the tank character who throws a hook attached to a long chain to pull the enemey hero in",
+		"partial": "Roadhog"
+	},
+	{
+		"complete": "Sombra is the DPS charcter that immediately upsets all teammates when she is picked",
+		"partial": "Sombra"
+	},
+	{
+		"complete": "Reinhardt is the tank hero with a 2000 HP shield",
+		"partial": "Reinhardt"
+	}
+]
